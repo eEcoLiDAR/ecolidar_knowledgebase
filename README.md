@@ -2,6 +2,7 @@
 
 This tutorial is focusing on to get an overview how to derive additional attributes for LiDAR data using already existed software solutions which can be input for for further segmentation/classification tasks within e-EcoLiDAR project.
 
+More detailed description and theory can be found in [GitHub wiki](https://github.com/eEcoLiDAR/existed_softwaresolutions/wiki/LiDAR-data-handling-techniques-(theory))
 
 # Installation requirements
 - [FugroViewer](https://www.fugro.com/about-fugro/our-expertise/technology/fugroviewer) 
