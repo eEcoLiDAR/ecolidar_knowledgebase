@@ -21,6 +21,8 @@ If you interested go to the [Wiki](https://github.com/eEcoLiDAR/ecolidar_knowled
 
 [Visualization](https://github.com/eEcoLiDAR/ecolidar_knowledgebase/wiki/Visualization)
 
+[Summary](https://github.com/eEcoLiDAR/ecolidar_knowledgebase/wiki/Summary)
+
 * Usage of Python (coming soon)
 
 Until then: Chris Lucas tutorial is available for that purpose [here](https://github.com/clucas111/delineating-linear-elements/blob/master/Thesis/Appendices.pdf)
