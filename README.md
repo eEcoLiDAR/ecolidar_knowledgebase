@@ -11,6 +11,8 @@ If you interested go to the [Wiki](https://github.com/eEcoLiDAR/ecolidar_knowled
 
 * Existed software solutions
 
+[Overview](https://github.com/eEcoLiDAR/ecolidar_knowledgebase/wiki/Overview)
+
 [OPALS](https://github.com/eEcoLiDAR/ecolidar_knowledgebase/wiki/OPALS)
 
 [Usage of LAStools](https://github.com/eEcoLiDAR/ecolidar_knowledgebase/wiki/Usage-of-LAStools)
@@ -20,8 +22,6 @@ If you interested go to the [Wiki](https://github.com/eEcoLiDAR/ecolidar_knowled
 [Further useful packages](https://github.com/eEcoLiDAR/ecolidar_knowledgebase/wiki/Further-useful-packages)
 
 [Visualization](https://github.com/eEcoLiDAR/ecolidar_knowledgebase/wiki/Visualization)
-
-[Summary](https://github.com/eEcoLiDAR/ecolidar_knowledgebase/wiki/Summary)
 
 * Usage of Python (coming soon)
 
