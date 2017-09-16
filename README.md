@@ -19,8 +19,6 @@ If you interested go to the [Wiki](https://github.com/eEcoLiDAR/ecolidar_knowled
 
 [Usage of GRASS GIS](https://github.com/eEcoLiDAR/ecolidar_knowledgebase/wiki/Usage-of-GRASS-GIS)
 
-[Further useful packages](https://github.com/eEcoLiDAR/ecolidar_knowledgebase/wiki/Further-useful-packages)
-
 [Visualization](https://github.com/eEcoLiDAR/ecolidar_knowledgebase/wiki/Visualization)
 
 * Usage of Python (coming soon)
