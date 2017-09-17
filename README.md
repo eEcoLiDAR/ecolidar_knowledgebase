@@ -9,7 +9,7 @@ If you interested go to the [Wiki](https://github.com/eEcoLiDAR/ecolidar_knowled
 
 [Glossary](https://github.com/eEcoLiDAR/ecolidar_knowledgebase/wiki/Glossary)
 
-* Existed software solutions
+* Existing software solutions
 
 [Overview](https://github.com/eEcoLiDAR/ecolidar_knowledgebase/wiki/Overview)
 
