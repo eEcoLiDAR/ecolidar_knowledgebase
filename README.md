@@ -17,7 +17,9 @@ If you interested go to the [Wiki](https://github.com/eEcoLiDAR/ecolidar_knowled
 
 [Usage of LAStools](https://github.com/eEcoLiDAR/ecolidar_knowledgebase/wiki/Usage-of-LAStools)
 
-[Usage of GRASS GIS](https://github.com/eEcoLiDAR/ecolidar_knowledgebase/wiki/Usage-of-GRASS-GIS)
+[Usage of GRASS GIS (under progress)](https://github.com/eEcoLiDAR/ecolidar_knowledgebase/wiki/Usage-of-GRASS-GIS)
+
+[Usage of Cloud Compare (under progress)](https://github.com/eEcoLiDAR/ecolidar_knowledgebase/wiki/Usage-of-Cloud-Compare-(under-progress))
 
 [Visualization](https://github.com/eEcoLiDAR/ecolidar_knowledgebase/wiki/Visualization)
 
